@@ -1,4 +1,7 @@
 twitterPrototypes
 =================
 
-Experiments in twitter api
+Collaborators: Chad Hokama, Evan Young.
+
+Experiments in twitter api. 
+

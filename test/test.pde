@@ -1,4 +1,5 @@
 //Build an ArrayList to hold all of the words that we get from the imported tweets
+//some stuff
 ArrayList<String> words = new ArrayList();
 int xPos = 0;
 
